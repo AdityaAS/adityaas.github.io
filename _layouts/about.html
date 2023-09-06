@@ -2,6 +2,15 @@
 layout: default
 ---
 
+<style>
+  .vertical-space {
+    margin-top: 20px;
+    /* Add space above the element */
+    margin-bottom: 20px;
+    /* Add space below the element */
+  }
+</style>
+
 <!-- about.html -->
 <div class="post">
   <header class="post-header">
@@ -47,15 +56,19 @@ layout: default
     <div class="clearfix">
       {{ content }}
     </div>
+<hr class="vertical-space">
 
-    {% if page.news -%}
-    <!-- News -->
-    {%- include news.html %}
-    {%- endif %}
     {% if page.selected_papers -%}
     <!-- Selected papers -->
     {%- include selected_papers.html %}
     {%- endif %}
+
+<!-- <hr class="vertical-space"> -->
+    {% if page.news -%}
+    <!-- News -->
+    {%- include news.html %}
+    {%- endif %}
+
 
     {% if page.work_ex -%}
     <!-- Selected papers -->
