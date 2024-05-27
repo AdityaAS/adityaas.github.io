@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: I've had the opportunity to be a part of the teaching staff both during my graduate and undergraduate studies
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 ### Georgia Institute of Technology
