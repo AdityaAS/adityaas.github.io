@@ -225,6 +225,7 @@ keep_files:
 plugins:
   - jekyll-archives
   - jekyll-diagrams
+  - jekyll-toc
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-get-json
@@ -235,7 +236,6 @@ plugins:
   - jekyll-paginate-v2
   - jekyll/scholar
   - jekyll-sitemap
-  - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
 
