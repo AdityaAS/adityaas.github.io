@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
+    gem 'jekyll-toc'
     gem 'classifier-reborn'
     gem 'jekyll'
     gem 'github-pages'
@@ -16,7 +17,6 @@ group :jekyll_plugins do
     gem 'jekyll-paginate-v2'
     gem 'jekyll-scholar'
     gem 'jekyll-sitemap'
-    gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
     gem 'mini_racer'
