@@ -25,7 +25,7 @@ In the past, I was a Research Fellow & Machine Learning Scientist at the [Wadhwa
 
 I am honoured to be a young researcher at [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/about-us.html) 2023. My work has previously been featured in [MIT Technology Review](https://www.technologyreview.com/2019/03/26/1201/how-artificial-intelligence-is-helping-farmers-and-babies-in-the-developing-world/). My work has also been the recipient of grants from the [Bill & Melinda Gates Foundation](https://www.gatesfoundation.org/) and won [Fast Company's World Changing Idea](https://www.fastcompany.com/90626533/this-ai-powered-tech-calculates-a-babys-weight-just-from-a-video) award in 2021
 
-At Georgia Tech and BITS Pilani, I also frequently donned the role of a SysAdmin helping with cluster configurations, internal tooling, and low level linux diagnostics.
+At Georgia Tech and BITS Pilani, I also frequently donned the role of a SysAdmin helping with cluster configurations, internal tooling, and low level linux diagnostics. [Here](https://adityaas.notion.site/SysAdmin-Reference-2c69b682c6be45fe8dc7beca9ae5701e)'s a brief guide. 
 
 Please get in touch at \<firstname\>as at gatech edu.
 
