@@ -3,7 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: Georgia Institute of Technology
-
 profile:
   align: right
   image: prof_pic.jpg
@@ -23,7 +22,6 @@ Previously, I was a MS thesis student at Georgia Tech, advised by [Prof. Alexey 
 
 In the past, I was a Research Fellow & Machine Learning Scientist at the [Wadhwani Institute for Artificial Intelligence](http://wadhwaniai.org/) where I worked on [estimating newborn anthropometry](https://www.wadhwaniai.org/programs/newborn-anthropometry/) using monocular video. I developed our data pipelines, internal training framework, and applied research for 3D reconstruction (RGB -> 3D). I developed processes and coordinated cross functional efforts across 3 teams.
 
-<!-- In a previous life, I was an undergraduate student at [BITS Pilani](https://www.bits-pilani.ac.in/) dabbling in distributed systems (my first love :) ). My undergraduate thesis on billion scale clustering was accepted [as a full paper]((https://ieeexplore.ieee.org/document/8891020)) at the Cluster Computing Conference -->
 
 I am honoured to be a young researcher at [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/about-us.html) 2023. My work has previously been featured in [MIT Technology Review](https://www.technologyreview.com/2019/03/26/1201/how-artificial-intelligence-is-helping-farmers-and-babies-in-the-developing-world/). My work has also been the recipient of grants from the [Bill & Melinda Gates Foundation](https://www.gatesfoundation.org/) and won [Fast Company's World Changing Idea](https://www.fastcompany.com/90626533/this-ai-powered-tech-calculates-a-babys-weight-just-from-a-video) award in 2021
 

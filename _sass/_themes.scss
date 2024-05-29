@@ -36,7 +36,7 @@
   .fa-moon {
     padding-left: 10px;
     padding-top: 12px;
-    display : block;
+    display: block;
   }
 
   .repo-img-light {
@@ -48,6 +48,7 @@
 }
 
 html[data-theme='dark'] {
+  // --global-bg-color: #{$black-color};
   --global-bg-color: #{$grey-color-dark};
   --global-code-bg-color: #{$code-bg-color-dark};
   --global-text-color: #{$grey-color-light};

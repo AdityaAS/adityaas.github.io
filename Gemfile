@@ -7,6 +7,7 @@ group :jekyll_plugins do
     gem 'jekyll-diagrams'
     gem 'jekyll-email-protect'
     gem 'jekyll-theme-minimal'
+    gem 'jekyll-theme-hacker'
     gem 'jekyll-feed'
     gem 'jekyll-get-json'
     gem 'jekyll-imagemagick'
